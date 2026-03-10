@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slottyslots-online.com/
+Sitemap: https://slottyslots-online.com/sitemap.xml
